@@ -12,7 +12,7 @@ setuptools.setup(
     description="Automate IP address changes using Tor, compatible with Linux and Termux.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your_username/tornet", 
+    url="https://github.com/Hinatara/tornet-project", 
     packages=find_packages(where="."),
     package_dir={"": "."}, 
     include_package_data=True,
