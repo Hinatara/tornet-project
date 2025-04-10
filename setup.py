@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="tornet",
-    version="2.1.0", 
+    version="1.1.0", 
     author="Fidal",
     author_email="youkymusasi1597@gmail.com",
     description="Automate IP address changes using Tor, compatible with Linux and Termux.",
