@@ -1,3 +1,3 @@
-# tornet/__init__.py
 
-__version__ = "2.1.0"  # Phải khớp với version trong setup.py
+## Version 1.0.0 is broken.
+__version__ = "1.1.0"  
